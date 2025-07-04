@@ -23,6 +23,6 @@ Você tem direito a:
 Para solicitar a exclusão dos seus dados, entre em contato através do email: ftmoura@gmail.com
 
 ## Contato
-Em caso de dúvidas, entre em contato: ftmoura@gmail.com
+Em caso de dúvidas, entre em contato: contato@fluxcode.dev.br
 
 *Última atualização: 11/12/2024*
